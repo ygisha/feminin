@@ -1,0 +1,42 @@
+body{
+	font-family: margueritas;
+	font-size: 14px;
+}
+
+.navbar {
+	background-color: #C72C48; /*Rouge framboise*/
+  	height: 71px;
+  	line-height: 71px;
+  	display: inline-block;
+}
+/*le logo du menu*/
+.navbar-header img{
+	width: 60px; 
+	height: 70px; 
+	float: left;
+}
+/* les marges gauches et droites du menu*/
+.container-fluid{
+	margin-right: 50px;
+	margin-left: 45px;
+	}
+/*mise en forme du titre près du logo*/
+.titre{
+	font-size: 40px;
+	font-weight: bold;
+}
+/*
+.nav ul li{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.nav ul li a{
+	color: white;
+	text-decoration: none;
+}*/
+
+.nav ul li a:hover{
+	color: #FFFFFF;
+}
+
